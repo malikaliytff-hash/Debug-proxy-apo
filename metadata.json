@@ -1,0 +1,6 @@
+{
+  "name": "Debug Proxy",
+  "description": "A local debugging proxy and visual overlay tool for testing authorized applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
